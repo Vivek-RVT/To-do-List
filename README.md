@@ -1,6 +1,4 @@
-Here's a README for your To-Do List project, similar to the one you shared:
 
----
 
 # To-Do List Web App ✅
 
